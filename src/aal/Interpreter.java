@@ -12,10 +12,8 @@ import java.util.Scanner;
 /**
  * An interpreter for ACSL Assembly Language (AAL).
  * 
+ * @author David Goldman
  * @see <a href="http://www.apcomputerscience.com/cst/topic_descriptions/assembly.pdf">Assembly specifications</a>
- *
- * TODO Add an interactive/trace mode?
- *
  */
 public class Interpreter {
 
